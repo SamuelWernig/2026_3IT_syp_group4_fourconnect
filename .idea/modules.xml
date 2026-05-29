@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/2526_3IT_syp_group4_fourconnect.iml" filepath="$PROJECT_DIR$/.idea/2526_3IT_syp_group4_fourconnect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourconnect.iml" filepath="$PROJECT_DIR$/fourconnect.iml" />
     </modules>
   </component>
 </project>
